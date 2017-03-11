@@ -1,0 +1,17 @@
+{
+  "name": "azure-fnc-typescript",
+  "version": "1.0.0",
+  "description": "Azure function with TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Elio Struyf",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-sourcemaps": "2.4.1",
+    "gulp-typescript": "3.1.5",
+    "typescript": "2.2.1"
+  }
+}
